@@ -4,5 +4,7 @@ public class TestRemote {
         System.out.println("修改分支main");
         System.out.println("new branch");
         System.out.println("增加一行");
+
+        System.out.println("push后，增加一行");
     }
 }
