@@ -3,5 +3,6 @@ public class TestRemote {
         System.out.println("第一次提交");
         System.out.println("修改分支main");
         System.out.println("new branch");
+        System.out.println("增加一行");
     }
 }
